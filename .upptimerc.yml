@@ -24,7 +24,7 @@ status-website:
   baseUrl: RivalUptime
   logoUrl: https://app.rivalresponse.com/Rival-Response-Logo.png
   favicon: https://app.rivalresponse.com/favicon.png
-  name: Rival Response
+  name: Rival Uptime
   introTitle: "**Rival Response** is the premier analytics tool used for..."
   introMessage: This is the status page.
   navbar:
