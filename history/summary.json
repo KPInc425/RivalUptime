@@ -4,19 +4,19 @@
     "url": "https://app.rivalresponse.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.rivalresponse.com.ico",
     "slug": "rival-response",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.02%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.09%",
     "time": 581,
     "timeDay": 554,
     "timeWeek": 548,
     "timeMonth": 581,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2025-06-17": 10,
+      "2025-06-17": 0,
       "2025-06-06": 147
     }
   }
