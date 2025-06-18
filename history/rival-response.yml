@@ -1,7 +1,7 @@
 url: https://app.rivalresponse.com
-status: up
-code: 200
-responseTime: 547
-lastUpdated: 2025-06-18T12:57:58.536Z
+status: down
+code: 502
+responseTime: 19293
+lastUpdated: 2025-06-18T21:08:05.728Z
 startTime: 2025-06-06T08:43:47.802Z
 generator: Upptime <https://github.com/upptime/upptime>
